@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.zacharygriggs</groupId>
-    <artifactId>deep-dungeon-mappr</artifactId>
+    <artifactId>deep-dungeon-mapper</artifactId>
     <version>1.0</version>
 
     <properties>
